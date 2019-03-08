@@ -1,0 +1,8 @@
+#pragma once
+#pragma once
+#pragma once
+#pragma once
+#include "onedll.h"
+
+Mat padding_image(Mat img);
+void repadding(Mat & imgIn, Mat & imgOut, int padding);

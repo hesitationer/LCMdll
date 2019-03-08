@@ -1,0 +1,4 @@
+LIBRARY onedll
+EXPORTS detect
+EXPORTS processDust
+EXPORTS CombinationOfResults
